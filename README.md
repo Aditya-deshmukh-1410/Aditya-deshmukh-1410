@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m Aditya Deshmukh  
+# 👋 Hi there, I’m Aditya Deshmukh  
 I'm a passionate **full-stack web developer** and a **B.E student** specializing in **Information Technology**. I thrive on turning ideas into real-world applications using the **MERN stack** (MongoDB, Express, React, Node.js) and continuously improving my coding skills with **Data Structures & Algorithms in Java**.
 
 I love building meaningful projects, contributing to open source, and learning from the developer community. My journey is driven by a simple mantra:
@@ -20,7 +20,7 @@ Whether it’s frontend or backend logic, I’m always eager to explore, experim
 📧 adityadeshmukh14100@gmail.com
 
 
-## 🚀 Projects I've Worked On:
+# 🚀 Projects I've Worked On:
 
 
 ### 💬 **PixelTalk** (Chat app) 
@@ -35,7 +35,7 @@ A fun and interactive memory game built using HTML, CSS, and JavaScript. It chal
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-deshmukh14) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Aadi_deshmukh14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityadeshmukh14100@gmail.com) 
 
 # 💻 Tech Stack:
