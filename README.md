@@ -16,7 +16,7 @@ Whether it’s frontend or backend logic, I’m always eager to explore, experim
 
 🧠 **Currently Exploring:** Redux, REST APIs, GitHub Actions, and clean code architecture for scalable apps.
 
-📬 **Reach out for collaboration, projects, or internship opportunities:**  
+📬 **Reach out for collaboration, projects, or internship opportunities..:**  
 📧 adityadeshmukh14100@gmail.com
 
 
