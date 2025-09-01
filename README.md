@@ -12,7 +12,7 @@ Whether it’s frontend or backend logic, I’m always eager to explore, experim
 # 💫 About Me:
 🌱 I’m currently learning: MongoDB, Express.js, React, and Node.js — while also practicing DSA in Java.<br><br>🤝 I’m looking for help with real-world MERN stack projects and open-source contributions.<br><br>👨‍💻 All of my projects are available at: [https://github.com/Aditya-deshmukh-1410](https://github.com/Aditya-deshmukh-1410)<br><br>💬 Ask me about 💻 Web Development (HTML, CSS, JS) 🌐 MERN Stack (MongoDB, Express, React, Node) ☕ Java & Data Structures 📂 Git & GitHub 🚀 Projects & Learning Path<br><br>📫 How to reach me - 📧 Email 💼 LinkedIn 🐙 GitHub.
 
-📚 **Education:** I'm a 3rd-year B.Tech Engineering Student passionate about building real-world software and solving problems using code
+📚 **Education:** I'm a 3rd-year B.Tech Engineering Student passionate about building real-world software and solving problems using code.
 
 🧠 **Currently Exploring:** Redux, REST APIs, GitHub Actions, and clean code architecture for scalable apps.
 
