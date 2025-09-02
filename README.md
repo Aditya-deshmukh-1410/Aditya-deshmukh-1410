@@ -1,5 +1,5 @@
 # 👋 Hi there, I’m Aditya Deshmukh  
-I'm a passionate **full-stack web developer** and a **B.E student** specializing in **Information Technology**. I thrive on turning ideas into real-world applications using the **MERN stack** (MongoDB, Express, React, Node.js) and continuously improving my coding skills with **Data Structures & Algorithms in Java**
+I'm a passionate **full-stack web developer** and a **B.E student** specializing in **Information Technology**. I thrive on turning ideas into real-world applications using the **MERN stack** (MongoDB, Express, React, Node.js) and continuously improving my coding skills with **Data Structures & Algorithms in Java**.
 
 I love building meaningful projects, contributing to open source, and learning from the developer community. My journey is driven by a simple mantra:
 
