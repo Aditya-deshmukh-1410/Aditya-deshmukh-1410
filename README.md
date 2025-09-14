@@ -5,7 +5,7 @@ I love building meaningful projects, contributing to open source, and learning f
 
 🎯 Core Belief: **"Code with consistency, grow with discipline."**
 
-Whether it’s frontend or backend logic, I’m always eager to explore, experiment, and elevate my skills.
+Whether it’s frontend or backend logic, I’m always eager to explore, experiment, and elevate my skills
 
 
 
