@@ -23,7 +23,7 @@ Whether it’s frontend or backend logic, I’m always eager to explore, experim
 # 🚀 Projects I've Worked On:
 
 
-### 💬 **PixelTalk** (Chat app) .
+### 💬 **PixelTalk** (Chat app) 
 A real-time chat application powered by **Socket.io**, **Node.js**, **Express**, **HTML**, and **CSS**. PixelTalk lets users join chat rooms and exchange messages live with others — perfect for learning WebSockets, event-based communication, and backend integration with frontend interfaces.
 
 ### 🎵 Spotify Clone (Frontend Only)  
