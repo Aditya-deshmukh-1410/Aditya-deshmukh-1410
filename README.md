@@ -11,12 +11,6 @@ Whether it’s frontend or backend logic, I’m always eager to explore, experim
 
 
 
-📚 **Education:** I'm a 3rd-year B.Tech Engineering Student passionate about building real-world software and solving problems using code
-
-🧠 **Currently Exploring:** Redux, REST APIs, GitHub Actions, and clean code architecture for scalable apps.
-
-📬 **Reach out for collaboration, projects, or internship opportunities..:**  
-📧 adityadeshmukh14100@gmail.com
 
 
 # 🚀 Projects I've Worked On:
