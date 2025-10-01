@@ -8,8 +8,16 @@ I love building meaningful projects, contributing to open source, and learning f
 Whether it’s frontend or backend logic, I’m always eager to explore, experiment, and elevate my skills.
 
 
-# 🚀 Projects I've Worked On:
+### 🚀 Projects I've Worked On:
+🌍 Wanderlust (Airbnb Clone)
+A full-stack property rental web app built with Node.js, Express, MongoDB, EJS, and Bootstrap, inspired by Airbnb. Users can explore, list, and review unique stays worldwide.
 
+✨ Key Features:
+— CRUD operations for property listings
+— Cloud image uploads with Cloudinary
+— User authentication & authorization
+— Interactive maps powered by Mapbox
+— Review & rating system with validation
 
 ### 💬 **PixelTalk** (Chat app) 
 A real-time chat application powered by **Socket.io**, **Node.js**, **Express**, **HTML**, and **CSS**. PixelTalk lets users join chat rooms and exchange messages live with others — perfect for learning WebSockets, event-based communication, and backend integration with frontend interfaces.
