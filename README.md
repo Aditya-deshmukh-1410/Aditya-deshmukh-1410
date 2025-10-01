@@ -8,8 +8,10 @@ I love building meaningful projects, contributing to open source, and learning f
 Whether it’s frontend or backend logic, I’m always eager to explore, experiment, and elevate my skills.
 
 
-### 🚀 Projects I've Worked On:
-🌍 Wanderlust (Airbnb Clone)
+## 🚀 Projects I've Worked On:
+
+### 🌍 Wanderlust (Airbnb Clone):
+
 A full-stack property rental web app built with Node.js, Express, MongoDB, EJS, and Bootstrap, inspired by Airbnb. Users can explore, list, and review unique stays worldwide.
 
 ✨ Key Features:
