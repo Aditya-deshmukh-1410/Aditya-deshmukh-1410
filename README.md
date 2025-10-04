@@ -30,7 +30,12 @@ A sleek, responsive clone of the Spotify UI built using pure HTML and CSS. It re
 ### 🎮 Simon Game Clone  
 A fun and interactive memory game built using HTML, CSS, and JavaScript. It challenges players to remember and replicate a sequence of colors and sounds that increase in difficulty with each level. Great for practicing DOM manipulation, event handling, and game logic..
 
-<center>![Profile Views](https://komarev.com/ghpvc/?username=Aditya-deshmukh-1410&color=blue)</center>
+<p align="center">
+  <a href="https://github.com/Aditya-deshmukh-1410">
+    <img src="https://komarev.com/ghpvc/?username=Aditya-deshmukh-1410&color=blue" alt="Profile Views" height="50">
+  </a>
+</p>
+
 
 
 
