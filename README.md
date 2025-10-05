@@ -24,7 +24,7 @@ A full-stack property rental web app built with Node.js, Express, MongoDB, EJS, 
 ### 💬 **PixelTalk** (Chat app) 
 A real-time chat application powered by **Socket.io**, **Node.js**, **Express**, **HTML**, and **CSS**. PixelTalk lets users join chat rooms and exchange messages live with others — perfect for learning WebSockets, event-based communication, and backend integration with frontend interfaces.
 
-### 🎵 Spotify Clone (Frontend Only)  
+### 🎵 Spotify Clone (Frontend)  
 A sleek, responsive clone of the Spotify UI built using pure HTML and CSS. It replicates the layout, theme, and basic user interface of the popular music platform — perfect for practicing frontend styling and structure.
 
 ### 🎮 Simon Game Clone  
