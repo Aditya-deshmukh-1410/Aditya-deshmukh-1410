@@ -28,7 +28,7 @@ A real-time chat application powered by **Socket.io**, **Node.js**, **Express**,
 A sleek, responsive clone of the Spotify UI built using pure HTML and CSS. It replicates the layout, theme, and basic user interface of the popular music platform — perfect for practicing frontend styling and structure.
 
 ### 🎮 Simon Game Clone  
-A fun and interactive memory game built using HTML, CSS, and JavaScript. It challenges players to remember and replicate a sequence of colors and sounds that increase in difficulty with each level. Great for practicing DOM manipulation, event handling, and game logic..
+A fun and interactive memory game built using HTML, CSS, and JavaScript. It challenges players to remember and replicate a sequence of colors and sounds that increase in difficulty with each level. Great for practicing DOM manipulation, event handling, and game logic.
 
 <p align="center">
   <a href="https://github.com/Aditya-deshmukh-1410">
