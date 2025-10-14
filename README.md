@@ -38,7 +38,6 @@ A fun and interactive memory game built using HTML, CSS, and JavaScript. It chal
 
 
 
-
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-deshmukh14) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Aadi_deshmukh14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityadeshmukh14100@gmail.com) 
 
