@@ -4,7 +4,7 @@ I'm a passionate **full-stack web developer** and a **B.E student** specializing
 I love building meaningful projects, contributing to open source, and learning from the developer community. My journey is driven by a simple mantra:
 
 🎯 Core Belief: **"Code with consistency, grow with discipline."**
-
+ 
 Whether it’s frontend or backend logic, I’m always eager to explore, experiment, and elevate my skills. 
 
 ## 🚀 Projects I've Worked On:
