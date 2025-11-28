@@ -16,7 +16,7 @@ A full-stack property rental web app built with Node.js, Express, MongoDB, EJS, 
 ✨ Key Features:
 — CRUD operations for property listings
 — Cloud image uploads with Cloudinary
-— User authentication & authorization
+— User authentication & authorization 
 — Interactive maps powered by Mapbox
 — Review & rating system with validation
 
