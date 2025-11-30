@@ -18,7 +18,7 @@ A full-stack property rental web app built with Node.js, Express, MongoDB, EJS, 
 — Cloud image uploads with Cloudinary
 — User authentication & authorization 
 — Interactive maps powered by Mapbox
-— Review & rating system with validation
+— Review & rating system with validation 
 
 ### 💬 **PixelTalk** (Chat app) 
 A real-time chat application powered by **Socket.io**, **Node.js**, **Express**, **HTML**, and **CSS**. PixelTalk lets users join chat rooms and exchange messages live with others — perfect for learning WebSockets, event-based communication, and backend integration with frontend interfaces.
