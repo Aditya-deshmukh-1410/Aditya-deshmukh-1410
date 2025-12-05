@@ -7,7 +7,7 @@ I love building meaningful projects, contributing to open source, and learning f
  
 Whether it’s frontend or backend logic, I’m always eager to explore, experiment, and elevate my skills. 
 
-## 🚀 Projects I've Worked On:
+## 🚀 Projects I've Worked On: 
 
 ### 🌍 Wanderlust (Airbnb Clone):
  
