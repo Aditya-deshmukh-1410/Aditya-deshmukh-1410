@@ -6,15 +6,17 @@
 <div align="center">
 
 # 👋 Hi, I'm **Aditya Deshmukh**
-### 🚀 Full-Stack Web Developer | B.E. IT Student
+### 🚀 Full-Stack Web Developer | MERN Stack | B.E. IT Student
+ B.E. IT Student
 *Code with consistency, grow with discipline.*
 
 </div>
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack;Building+and+Learning+with+Java;Code+with+Consistency" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&speed=40&color=00E6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack;Building+and+Learning+with+Java;Code+with+Consistency;Life-long+Learner;Problem+Solver" />
 </div>
+
 
 ---
 
