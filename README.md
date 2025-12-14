@@ -139,9 +139,11 @@ Key Features:
 ## 🌐 Connect With Me
 
 <div align="center">
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-deshmukh14)
   [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@Aadi_deshmukh14)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityadeshmukh14100@gmail.com)
+  
 </div>
 
 
