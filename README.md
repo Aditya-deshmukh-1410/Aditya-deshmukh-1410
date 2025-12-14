@@ -1,9 +1,25 @@
-# 👋 Hi, I'm **Aditya Deshmukh**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aditya-deshmukh-1410/Aditya-deshmukh-1410/main/banner.gif" />
+</div>
+
 
 <div align="center">
+  # 👋 Hi, I'm **Aditya Deshmukh**
   <h3>🚀 Full-Stack Web Developer | B.E. IT Student</h3>
   <p><i>Code with consistency, grow with discipline.</i></p>
 </div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com
+    ?font=Fira+Code
+    &size=24
+    &pause=1000
+    &color=00E6FF
+    &center=true
+    &vCenter=true
+    &width=650
+    &lines=Full+Stack+Developer;MERN+Stack;Building+and+Learning+with+Java;Code+with+Consistency" />
+</div>
+
 
 ---
 
