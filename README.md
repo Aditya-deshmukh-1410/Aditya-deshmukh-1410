@@ -1,63 +1,126 @@
-# 👋 Hi there, I’m Aditya Deshmukh  
-I'm a passionate **full-stack web developer** and a **B.E student** specializing in **Information Technology**. I thrive on turning ideas into real-world applications using the **MERN stack** (MongoDB, Express, React, Node.js) and continuously improving my coding skills with **Data Structures & Algorithms in Java**. 
- 
-I love building meaningful projects, contributing to open source, and learning from the developer community. My journey is driven by a simple mantra:
- 
-🎯 Core Belief: **"Code with consistency, grow with discipline."** 
- 
-Whether it’s frontend or backend logic, I’m always eager to explore, experiment, and elevate my skills. 
+# 👋 Hi, I'm **Aditya Deshmukh**
 
-### ✍️ Random Dev Quote
-<center>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</center>
-
-## 🚀 Projects I've Worked On: 
-
-### 🌍 Wanderlust (Airbnb Clone): 
- 
-A full-stack property rental web app built with Node.js, Express, MongoDB, EJS, and Bootstrap, inspired by Airbnb. Users can explore, list, and review unique stays worldwide.
-
-✨ Key Features:
-— CRUD operations for property listings
-— Cloud image uploads with Cloudinary
-— User authentication & authorization 
-— Interactive maps powered by Mapbox
-— Review & rating system with validation 
-
-### 💬 **PixelTalk** (Chat app) 
-A real-time chat application powered by **Socket.io**, **Node.js**, **Express**, **HTML**, and **CSS**. PixelTalk lets users join chat rooms and exchange messages live with others — perfect for learning WebSockets, event-based communication, and backend integration with frontend interfaces.
-
-### 🎵 Spotify Clone (Frontend)  
-A sleek, responsive clone of the Spotify UI built using pure HTML and CSS. It replicates the layout, theme, and basic user interface of the popular music platform — perfect for practicing frontend styling and structure.
-
-### 🎮 Simon Game Clone  
-A fun and interactive memory game built using HTML, CSS, and JavaScript. It challenges players to remember and replicate a sequence of colors and sounds that increase in difficulty with each level. Great for practicing DOM manipulation, event handling, and game logic.
-
-<p align="center">
-  <a href="https://github.com/Aditya-deshmukh-1410">
-    <img src="https://komarev.com/ghpvc/?username=Aditya-deshmukh-1410&color=blue" alt="Profile Views" height="50">
-  </a>
-</p>
-
-
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-deshmukh14) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Aadi_deshmukh14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityadeshmukh14100@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-
-
-# 📊 GitHub Stats:
-<center>
-![](https://github-readme-stats.vercel.app/api?username=Aditya-deshmukh-1410&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aditya-deshmukh-1410&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-deshmukh-1410&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</center>
-
+<div align="center">
+  <h3>🚀 Full-Stack Web Developer | B.E. IT Student</h3>
+  <p><i>Code with consistency, grow with discipline.</i></p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aditya-deshmukh-1410&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🧠 About Me
 
+I'm a passionate **Full-Stack Web Developer** and **Information Technology undergraduate**, specializing in building scalable and user-friendly applications using the **MERN Stack**. I actively strengthen my problem‑solving skills through **Data Structures & Algorithms in Java** and enjoy learning by building real‑world projects.
+
+* 🔭 Currently working on full‑stack & real‑time applications
+* 🌱 Exploring advanced backend & system design concepts
+* 🤝 Open to collaborations & open‑source contributions
+
+---
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+## 🚀 Projects
+
+### 🌍 Wanderlust (Airbnb Clone)
+
+A full‑stack property rental platform inspired by Airbnb.
+
+**Tech Stack:** Node.js, Express, MongoDB, EJS, Bootstrap
+
+**Highlights:**
+
+* CRUD operations for property listings
+* Cloudinary image uploads
+* Authentication & authorization
+* Mapbox integration for interactive maps
+* Review & rating system with validation
+
+---
+
+### 💬 PixelTalk (Real‑Time Chat App)
+
+A real‑time chat application using WebSockets.
+
+**Tech Stack:** Node.js, Express, Socket.io, HTML, CSS
+
+**Highlights:**
+
+* Live chat rooms
+* Event‑driven communication
+* Backend‑frontend integration
+
+---
+
+### 🎵 Spotify Clone (Frontend)
+
+A responsive Spotify UI clone.
+
+**Tech Stack:** HTML, CSS
+
+---
+
+### 🎮 Simon Game Clone
+
+An interactive memory‑based game.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-deshmukh-1410&theme=tokyonight" />
+  <br/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Aditya-deshmukh-1410&theme=tokyonight" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-deshmukh-1410&theme=tokyonight&layout=compact" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/aditya-deshmukh14)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/@Aadi_deshmukh14)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:adityadeshmukh14100@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aditya-deshmukh-1410&color=blue" />
+</div>
+
+<div align="center">
+
+⭐ *Thanks for visiting my profile — let’s build something amazing together!* ⭐
+
+</div>
