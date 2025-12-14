@@ -4,22 +4,17 @@
 
 
 <div align="center">
-  # 👋 Hi, I'm **Aditya Deshmukh**
-  <h3>🚀 Full-Stack Web Developer | B.E. IT Student</h3>
-  <p><i>Code with consistency, grow with discipline.</i></p>
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com
-    ?font=Fira+Code
-    &size=24
-    &pause=1000
-    &color=00E6FF
-    &center=true
-    &vCenter=true
-    &width=650
-    &lines=Full+Stack+Developer;MERN+Stack;Building+and+Learning+with+Java;Code+with+Consistency" />
+
+# 👋 Hi, I'm **Aditya Deshmukh**
+### 🚀 Full-Stack Web Developer | B.E. IT Student
+*Code with consistency, grow with discipline.*
+
 </div>
 
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack;Building+and+Learning+with+Java;Code+with+Consistency" />
+</div>
 
 ---
 
@@ -142,12 +137,11 @@ Key Features:
 ## 🌐 Connect With Me
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/aditya-deshmukh14)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/@Aadi_deshmukh14)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:adityadeshmukh14100@gmail.com)
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-deshmukh14)
+  [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@Aadi_deshmukh14)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityadeshmukh14100@gmail.com)
 </div>
+
 
 ---
 
