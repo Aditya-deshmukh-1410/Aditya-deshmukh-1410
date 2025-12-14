@@ -56,22 +56,28 @@ A real‑time chat application using WebSockets.
 * Backend‑frontend integration
 
 ---
+### 🏋️ PlanPro (Exercise Tracking App)
 
-### 🎵 Spotify Clone (Frontend)
+A productivity-focused frontend web application designed to help users plan, organize, and track their exercise routines effectively.
 
-A responsive Spotify UI clone.
+**Tech Stack:** React.js
 
-**Tech Stack:** HTML, CSS
-
----
-
-### 🎮 Simon Game Clone
-
-An interactive memory‑based game.
-
-**Tech Stack:** HTML, CSS, JavaScript
+**Key Highlights:**
+* Built to practice core React concepts (components, props, state, hooks)
+* Clean and intuitive UI focused on consistency and habit-building
+* Track workouts by day or session
 
 ---
+
+### 🌍 Traventure (Travel Planning Platform)
+
+A travel‑centric web application that helps users explore destinations and plan trips effectively.
+**Tech Stack:** HTML, CSS, JavaScript.
+
+Key Features:
+* Built to practice and strengthen core frontend concepts
+* Responsive and visually appealing UI
+* Destination exploration layout and sections
 
 ## 💻 Tech Stack
 
