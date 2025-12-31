@@ -134,13 +134,7 @@ Key Features:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-deshmukh-1410&theme=tokyonight&layout=compact" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-deshmukh-1410&theme=tokyonight&count_private=true&cache_seconds=1800" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-deshmukh-1410&theme=tokyonight" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-deshmukh-1410&theme=tokyonight&layout=compact" />
-</p>
+
 
 
 ---
