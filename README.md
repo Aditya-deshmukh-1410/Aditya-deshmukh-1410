@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Aditya-deshmukh-1410/Aditya-deshmukh-1410/main/banner.gif" />
 </div>
-       
+        
  
 <div align="center">
 
@@ -11,7 +11,6 @@
 *Code with consistency, grow with discipline.*
 
 </div>
-
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&speed=50&color=00E6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack;Building+and+Learning+with+Java;Code+with+Consistency;Life-long+Learner;Problem+Solver" />
