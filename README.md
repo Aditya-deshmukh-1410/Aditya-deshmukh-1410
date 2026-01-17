@@ -8,7 +8,7 @@
 # 👋 Hi, I'm **Aditya Deshmukh**
 ### 🚀 Full-Stack Web Developer | MERN Stack | B.E. IT Student
  
-*Code with consistency, grow with discipline.*
+*Code with consistency, grow with discipline.* 
 
 </div>
 
