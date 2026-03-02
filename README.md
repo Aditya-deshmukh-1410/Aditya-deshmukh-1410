@@ -10,7 +10,7 @@
  
 *Code with consistency, grow with discipline.* 
 
-</div>
+</div> 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&speed=50&color=00E6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack;Building+and+Learning+with+Java;Code+with+Consistency;Life-long+Learner;Problem+Solver" />
