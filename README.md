@@ -39,6 +39,20 @@ I'm a passionate **Full-Stack Web Developer** and **Information Technology under
 
 ## 🚀 Projects
 
+### 📈 Investix (Stock Trading & Portfolio Management Platform)
+
+A full-stack stock trading simulation platform inspired by modern fintech dashboards like Zerodha.
+
+**Tech Stack:** Node.js, Express, MongoDB, React, Material UI, Chart.js, Passport.js
+
+**Highlights:**
+* Interactive trading dashboard
+* Buy/Sell stock simulation
+* Portfolio tracking (Orders, Holdings, Positions)
+* Real-time charts & analytics
+* Payment gateway integration
+---
+
 ### 🌍 Wanderlust (Airbnb Clone)
 
 A full‑stack property rental platform inspired by Airbnb.
@@ -54,20 +68,21 @@ A full‑stack property rental platform inspired by Airbnb.
 * Review & rating system with validation
 
 ---
-### 📈 Investix (Stock Trading & Portfolio Management Platform)
 
-A full-stack stock trading simulation platform inspired by modern fintech dashboards like Zerodha.
+🏪 Seller Hub (ERP Web Application)
 
-**Tech Stack:** Node.js, Express, MongoDB, React, Material UI, Chart.js, Passport.js
+A Java-based ERP web application developed to strengthen core Java backend fundamentals by implementing a real-world business management system.
+
+**Tech Stack:** Java, JSP, Servlets, JDBC, MySQL, Apache Tomcat, MVC Architecture
 
 **Highlights:**
 
-* Interactive trading dashboard
-* Buy/Sell stock simulation
-* Portfolio tracking (Orders, Holdings, Positions)
-* Real-time charts & analytics
-* Secure authentication system
-* Payment gateway integration
+* Implemented MVC architecture for structured application design
+* DAO pattern for clean and reusable database access
+* Session-based authentication for secure login management
+* Reusable JSP fragments for consistent UI components
+* Modular and scalable backend structure
+
 ---
 
 ### 🌍 Traventure (Travel Planning Platform)
