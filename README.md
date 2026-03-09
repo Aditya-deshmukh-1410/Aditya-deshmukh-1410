@@ -54,31 +54,20 @@ A full‑stack property rental platform inspired by Airbnb.
 * Review & rating system with validation
 
 ---
+### 📈 Investix (Stock Trading & Portfolio Management Platform)
 
-### 💬 PixelTalk (Real‑Time Chat App)
+A full-stack stock trading simulation platform inspired by modern fintech dashboards like Zerodha.
 
-A real‑time chat application using WebSockets.
-
-**Tech Stack:** Node.js, Express, Socket.io, HTML, CSS
+**Tech Stack:** Node.js, Express, MongoDB, React, Material UI, Chart.js, Passport.js
 
 **Highlights:**
 
-* Live chat rooms
-* Event‑driven communication
-* Backend‑frontend integration
-
----
-### 🏋️ PlanPro (Exercise Tracking App)
-
-A productivity-focused frontend web application designed to help users plan, organize, and track their exercise routines effectively.
-
-**Tech Stack:** React.js
-
-**Key Highlights:**
-* Built to practice core React concepts (components, props, state, hooks)
-* Clean and intuitive UI focused on consistency and habit-building
-* Track workouts by day or session
-
+* Interactive trading dashboard
+* Buy/Sell stock simulation
+* Portfolio tracking (Orders, Holdings, Positions)
+* Real-time charts & analytics
+* Secure authentication system
+* Payment gateway integration
 ---
 
 ### 🌍 Traventure (Travel Planning Platform)
