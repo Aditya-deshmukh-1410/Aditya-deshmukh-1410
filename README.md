@@ -69,7 +69,7 @@ A full‑stack property rental platform inspired by Airbnb.
 
 ---
 
-🏪 Seller Hub (ERP Web Application)
+### 🏪 Seller Hub (ERP Web Application)
 
 A Java-based ERP web application developed to strengthen core Java backend fundamentals by implementing a real-world business management system.
 
