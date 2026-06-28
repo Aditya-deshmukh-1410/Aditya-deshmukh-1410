@@ -130,11 +130,11 @@ Key Features:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-deshmukh-1410&theme=tokyonight" />
-  <br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Aditya-deshmukh-1410&theme=tokyonight" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-deshmukh-1410&theme=tokyonight&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-deshmukh-1410&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+
+<img src="https://streak-stats.demolab.com?user=Aditya-deshmukh-1410&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-deshmukh-1410&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 </div>
 
 
