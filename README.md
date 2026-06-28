@@ -131,9 +131,9 @@ Key Features:
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Aditya-deshmukh-1410&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-
+</br>
 <img src="https://streak-stats.demolab.com?user=Aditya-deshmukh-1410&theme=tokyonight"/>
-
+</br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-deshmukh-1410&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 </div>
 
