@@ -68,13 +68,6 @@ I'm a passionate **Full-Stack Web Developer** and **Information Technology under
 
 ---
 
-## 📌 Pinned Projects
-
-Check out my pinned repositories below for a closer look at what I've built 👇
-<br>*(Pin your favorites via GitHub profile → Customize your pins)*
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
