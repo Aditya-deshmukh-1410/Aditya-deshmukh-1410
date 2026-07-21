@@ -127,20 +127,34 @@ Key Features:
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-deshmukh-1410&bg_color=0d1117&color=00e6ff&line=00e6ff&point=ffffff&area=true&area_color=00e6ff&title_color=00e6ff&text_color=8b949e&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aditya-deshmukh-1410/Aditya-deshmukh-1410/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya-deshmukh-1410&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-deshmukh-1410&show_icons=true&theme=tokyonight&title_color=00e6ff&icon_color=00e6ff&hide_border=true&cache_seconds=86400"/>
 </br>
-<img src="https://streak-stats.demolab.com?user=Aditya-deshmukh-1410&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Aditya-deshmukh-1410&theme=tokyonight&ring=00e6ff&fire=00e6ff&hide_border=true"/>
 </br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-deshmukh-1410&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-deshmukh-1410&layout=compact&theme=tokyonight&title_color=00e6ff&hide_border=true&cache_seconds=86400"/>
 </div>
 
-
-
-
 ---
+
 
 ## 🌐 Connect With Me
 
@@ -156,7 +170,7 @@ Key Features:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aditya-deshmukh-1410&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Aditya-deshmukh-1410&color=00e6ff" />
 </div>
 
 <div align="center">
