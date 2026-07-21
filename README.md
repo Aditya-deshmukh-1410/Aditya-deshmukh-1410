@@ -16,7 +16,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&speed=50&color=00E6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack;Building+and+Learning+with+Java;Code+with+Consistency;Life-long+Learner;Problem+Solver" />
 </div>
 
-
 ---
 
 ## 🧠 About Me
@@ -37,67 +36,9 @@ I'm a passionate **Full-Stack Web Developer** and **Information Technology under
 
 ---
 
-## 🚀 Projects
-
-### 📈 Investix (Stock Trading & Portfolio Management Platform)
-
-A full-stack stock trading simulation platform inspired by modern fintech dashboards like Zerodha.
-
-**Tech Stack:** Node.js, Express, MongoDB, React, Material UI, Chart.js, Passport.js
-
-**Highlights:**
-* Interactive trading dashboard
-* Buy/Sell stock simulation
-* Portfolio tracking (Orders, Holdings, Positions)
-* Real-time charts & analytics
-* Payment gateway integration
----
-
-### 🌍 Wanderlust (Airbnb Clone)
-
-A full‑stack property rental platform inspired by Airbnb.
-
-**Tech Stack:** Node.js, Express, MongoDB, EJS, Bootstrap
-
-**Highlights:**
-
-* CRUD operations for property listings
-* Cloudinary image uploads
-* Authentication & authorization
-* Mapbox integration for interactive maps
-* Review & rating system with validation
-
----
-
-### 🏪 Seller Hub (ERP Web Application)
-
-A Java-based ERP web application developed to strengthen core Java backend fundamentals by implementing a real-world business management system.
-
-**Tech Stack:** Java, JSP, Servlets, JDBC, MySQL, Apache Tomcat, MVC Architecture
-
-**Highlights:**
-
-* Implemented MVC architecture for structured application design
-* DAO pattern for clean and reusable database access
-* Session-based authentication for secure login management
-* Reusable JSP fragments for consistent UI components
-* Modular and scalable backend structure
-
----
-
-### 🌍 Traventure (Travel Planning Platform)
-
-A travel‑centric web application that helps users explore destinations and plan trips effectively.
-**Tech Stack:** HTML, CSS, JavaScript.
-
-Key Features:
-* Built to practice and strengthen core frontend concepts
-* Responsive and visually appealing UI
-* Destination exploration layout and sections
-
 ## 💻 Tech Stack
 
-### 🚀 Languages
+### 🚀 Languages & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -124,6 +65,13 @@ Key Features:
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
 </div>
+
+---
+
+## 📌 Pinned Projects
+
+Check out my pinned repositories below for a closer look at what I've built 👇
+<br>*(Pin your favorites via GitHub profile → Customize your pins)*
 
 ---
 
@@ -155,7 +103,6 @@ Key Features:
 
 ---
 
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -166,7 +113,6 @@ Key Features:
   
 </div>
 
-
 ---
 
 <div align="center">
@@ -175,6 +121,6 @@ Key Features:
 
 <div align="center">
 
-⭐ *Thanks for visiting my profile — let’s build something amazing together!* ⭐
+⭐ *Thanks for visiting my profile — let's build something amazing together!* ⭐
 
 </div>
