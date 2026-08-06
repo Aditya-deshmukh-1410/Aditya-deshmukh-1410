@@ -115,7 +115,7 @@ I'm a passionate **Full-Stack Web Developer** and **Information Technology under
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aditya-deshmukh-1410&color=00e6ff" />
+  <img src="https://komarev.com/ghpvc/?username=Aditya-deshmukh-1410&color=58a6ff" />
 </div>
 
 <div align="center">
