@@ -91,7 +91,7 @@ I'm a passionate **Full-Stack Web Developer** and **Information Technology under
 <img src="https://github-readme-stats-smoky-two-38.vercel.app/api?username=Aditya-deshmukh-1410&show_icons=true&theme=tokyonight&title_color=00e6ff&icon_color=00e6ff&hide_border=true&cache_seconds=1800"/>
 
 <br><br>
-<img src="https://streak-stats.demolab.com?user=Aditya-deshmukh-1410&theme=tokyonight&ring=00e6ff&fire=00e6ff&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-deshmukh-1410&theme=tokyonight&ring=00e6ff&fire=00e6ff&hide_border=true"/>
 <br><br>
 
 <img src="https://github-readme-stats-smoky-two-38.vercel.app/api/top-langs/?username=Aditya-deshmukh-1410&layout=compact&theme=tokyonight&title_color=00e6ff&hide_border=true&cache_seconds=1800"/>
