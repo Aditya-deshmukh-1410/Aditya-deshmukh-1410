@@ -30,7 +30,7 @@ I'm a passionate **Full-Stack Web Developer** and **Information Technology under
 
 ## ✍️ Random Dev Quote
 
-<div align="center">
+<div align="center">   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
