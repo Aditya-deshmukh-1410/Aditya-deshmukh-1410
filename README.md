@@ -66,13 +66,7 @@ I'm a passionate **Full-Stack Web Developer** and **Information Technology under
   <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
 </div>
 
----
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-deshmukh-1410&bg_color=0d1117&color=00e6ff&line=00e6ff&point=ffffff&area=true&area_color=00e6ff&title_color=00e6ff&text_color=8b949e&hide_border=true" width="100%"/>
-</div>
 
 ---
 
