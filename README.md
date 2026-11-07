@@ -7,7 +7,7 @@
 <div align="center">     
        
 # 👋 Hi, I'm **Aditya Deshmukh**      
-### 🚀 Full-Stack Web Developer | MERN Stack | B.E. IT Student
+### 🚀 Full-Stack Web Developer | MERN Stack | B.E. IT Student 
  
 *Code with consistency, grow with discipline.* 
           
